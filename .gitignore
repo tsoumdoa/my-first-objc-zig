@@ -1,6 +1,6 @@
 dist
 app.config.timestamp_*.js
-.zig-cache
+/.zig-cache
 
 # Environment
 .env
